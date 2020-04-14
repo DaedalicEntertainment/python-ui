@@ -1,4 +1,4 @@
-# Generic User Interface
+# Generic User Interface for Python
 
 Python module to generate a CLI and GUI for user input validation.
 
